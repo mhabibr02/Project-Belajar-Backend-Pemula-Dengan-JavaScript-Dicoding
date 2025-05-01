@@ -1,7 +1,7 @@
 # Project Belajar Backend Pemula Dengan JavaScript Dicoding
 
 <p align="center">
-<img src="https://mhabibr02.github.io/Portofolio-Website/details/assets/img/portfolio/course-74-1.jpg" width="80%" height="30%">
+<img src="/Certificate/Sertifikat Belajar Backend Pemula Dengan JavaScript.jpg" width="80%" height="30%">
 </p>
 
 ### Description :
