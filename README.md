@@ -1,13 +1,11 @@
 # Project Belajar Backend Pemula Dengan JavaScript Dicoding
-
-<p align="center">
-<img src="/Certificate/Sertifikat Belajar Backend Pemula Dengan JavaScript.jpg" width="80%" height="30%">
-</p>
-
 ### Description
 This course [Belajar Backend Pemula Dengan JavaScript](https://www.dicoding.com/academies/261/) from [Dicoding](https://www.dicoding.com/)  is an entry-level program designed to equip 
 learners with foundational skills in back-end development using JavaScript, specifically Node.js. Spanning approximately 45 hours, the course guides students through the process of 
 building RESTful APIs, starting from understanding HTTP servers and routing to deploying real-world back-end applications.​
+<p align="center">
+<img src="/Certificate/Sertifikat Belajar Backend Pemula Dengan JavaScript.jpg" width="80%" height="30%">
+</p>
 
 ### Syllabus
 1. Backend Introduction <br>
