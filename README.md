@@ -8,18 +8,18 @@ building RESTful APIs, starting from understanding HTTP servers and routing to d
 </p>
 
 ### Syllabus
-1. Backend Introduction <br>
+#### 1. Backend Introduction <br>
 This module introduces the fundamental concepts of back-end development, including how the back-end interacts with the front-end, the client-server model, and the role of APIs in modern
 web applications.
-2. Fundamental Node JS <br>
+#### 2. Fundamental Node JS <br>
 In this section, learners will explore the basics of Node.js, including its architecture, asynchronous programming, modules, and file system interactions. It lays the groundwork for
 using Node.js as a back-end runtime environment.
-3. Build Web Service with Node.js <br>
+#### 3. Build Web Service with Node.js <br>
 This module focuses on building RESTful web services using Node.js and the Hapi framework. It covers routing, handling HTTP requests and responses, and structuring a back-end project.
-4. Deploy Web Services <br>
+#### 4. Deploy Web Services <br>
 Students will learn how to deploy their web services to a production environment, specifically using Amazon EC2. This includes setting up servers, configuring environments, and making
 services accessible online.
-6. Consuming and Testing RESTful APIs using Postman <br>
+#### 6. Consuming and Testing RESTful APIs using Postman <br>
 This final section teaches how to test and interact with RESTful APIs using Postman. Learners will validate endpoints, test various request methods, and ensure their services behave as
 expected.
 
